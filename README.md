@@ -2,6 +2,11 @@
 
 전통 뿌리제조업 대표자가 기업 개선, 기업승계, M&A 검토의 우선순위를 정리하고 전문가 상담을 준비하도록 돕는 공개 MVP입니다.
 
+## 공개 앱
+
+- Streamlit: https://seunggae-ieum-ai-app-ejhls7z49eid3dqsphmupx.streamlit.app/
+- GitHub: https://github.com/neowiner66-crypto/seunggae-ieum-ai-streamlit
+
 ## 주요 기능
 
 - 8문항 AI 규칙 기반 자가진단
@@ -57,4 +62,3 @@ macOS/Linux에서는 활성화 명령으로 `source .venv/bin/activate`를 사�
 ## 라이선스
 
 Copyright © 2026 강덕환. All rights reserved.
-
