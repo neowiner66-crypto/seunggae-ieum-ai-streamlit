@@ -1,0 +1,14 @@
+[theme]
+primaryColor = "#1f6f8b"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f6f7f9"
+textColor = "#111827"
+font = "Pretendard, Noto Sans KR, sans-serif"
+baseRadius = "2px"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
+
